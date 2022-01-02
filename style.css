@@ -1,4 +1,4 @@
-.head{
+.head {
     color: aqua;
     background-color:black;
     text-align: center;
@@ -9,3 +9,12 @@ p{
 h3{
     color: aquamarine;
 }
+.russ{
+    margin: 10px 50px 30px 0px;
+}
+.ham{
+    border-radius: 10px;
+}
+
+
+
