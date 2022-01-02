@@ -1,7 +1,11 @@
 .head{
     color: aqua;
     background-color:black;
+    text-align: center;
 }
 p{
     color: brown;
+}
+h3{
+    color: aquamarine;
 }
